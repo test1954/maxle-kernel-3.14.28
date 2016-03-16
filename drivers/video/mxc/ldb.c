@@ -18,7 +18,7 @@
  * 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
  */
 
-#define DEBUG
+//#define DEBUG
 #include <linux/clk.h>
 #include <linux/err.h>
 #include <linux/init.h>
